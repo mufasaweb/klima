@@ -40,6 +40,8 @@ Sistema de gestión para la empresa Klimatech, dedicada a la visita y relevamien
 
 ## Estructura Inicial del Proyecto
 
+- `/assets` - imágenes y estilos.
+- `/config` - conexiones y db
 - `/admin` - Panel de administración.
 - `/tecnico` - Interfaz/app para técnicos.
 - `/api` - Endpoints para comunicación entre frontend y backend.
